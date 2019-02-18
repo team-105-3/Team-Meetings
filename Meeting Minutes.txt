@@ -1,0 +1,41 @@
+﻿Members Present: Vincent Liu, Nick Elsasser, Lara Chunko, Tianchen Wang, Nikhil Rajaram
+
+
+What we did:
+* Worked on Milestone 1
+   * Talked about project ideas
+      * Make something useful
+      * Online scheduler
+         * Be able to input your schedule
+         * Notifications about events
+            * Be able to input when a project is due and when you should start the project
+            * If a birthday is coming up, have a notification at least three days before (Amazon prime’s two day shipping)
+      * Still want to focus on a website first, since app development majorly increases scope 
+   * Considered application name
+      * Looked at Google Domains 
+      * Planmyschedule.com $12/year
+      * Proboost.us $12/year
+      * Daytodays.org $12/year
+      * Whenamibusy.com $12/year
+      * Daydesign.org $12/year
+      * Autoschedule.us $12/year
+      * Application Name we chose: SmartCal
+   * Meeting schedule
+      * Wednesday 4pm-6pm 
+      * Please try to show up by 4:15pm
+      * Location: Engineering Center
+   * Talked about Development Method
+      * Agile scrum
+      * Create bare bones project
+         * Focus on backend first
+         * Put a few people on front on
+      * Once a viable project is complete, we will focus on the front end and possibly adding features. 
+   * Experience
+      * Nick has backend experience in Java
+      * Nick, Nikhil, Tianchen, Vincent, Lara have Java experience
+   * Worked on Proposed Architecture Plan
+      * Backend: Java
+      * Integration Layer: AJAX
+      * Front front: HTML, CSS, Javascript
+      * Nikhil says Professor Paradise might have mentioned Node.JS?
+   * Worked on vision statement
